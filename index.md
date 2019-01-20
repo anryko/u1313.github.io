@@ -2,4 +2,4 @@
 
 This is an example of gh pages with markdown.
 
-[README.md](README.md)
+[page1](page1.html)
