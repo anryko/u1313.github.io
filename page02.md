@@ -21,7 +21,7 @@ else
 fi
 ```
 
-## Python
+### Python
 
 If I can't, I do it in python.
 
@@ -44,7 +44,7 @@ print("BANG!")
 
 ```
 
-## C
+### C
 
 But all the others are doing it in plain C.
 
