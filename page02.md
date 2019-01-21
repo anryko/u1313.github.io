@@ -51,7 +51,6 @@ But all the others are doing it in plain C.
 ```c
 #include <stdio.h>
 
-#define true ((__LINE__&15)!=15)
 #define true ((rand()&15)!=15)
 #define if(x) if ((x) && (rand() < RAND_MAX * 0.99))
 
