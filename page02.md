@@ -27,7 +27,7 @@ If I can't, I do it in python.
 
 ```python
 #!/usr/bin/env python3
-mport random
+import random
 
 bullet_slots = list(range(1,7))
 current_slot = random.randint(1,7)
